@@ -45,9 +45,9 @@
 
 > 📸 차량 번호 인식 결과 및 저장 이미지, OCR 출력 결과 등
 <div style="display: flex;">
-    <img src="추출과정1.png" alt="번호판 추출과정1" style="width: 300px; margin-right: 10px;">
-    <img src="추출과정2.png" alt="번호판 추출과정2" style="width: 300px; margin-right: 10px;">
-    <img src="결과.png" alt="이메일 전송화면" style="width: 300px;">
+    <img src="추출과정1.PNG" alt="번호판 추출과정1" style="width: 300px; margin-right: 10px;">
+    <img src="추출과정2.PNG" alt="번호판 추출과정2" style="width: 300px; margin-right: 10px;">
+    <img src="결과.PNG" alt="이메일 전송화면" style="width: 300px;">
 </div>
 
 ---
